@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\walte\\source\\repos\\PasswordStrengthSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\walte\\source\\repos\\PasswordStrengthSolution\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C7FF87-9CEE-4EE0-B1A9-6BD8C1FF59AC}|PasswordStrengthLib.Tests\\PasswordStrengthLib.Tests.csproj|c:\\users\\walte\\source\\repos\\passwordstrengthsolution\\passwordstrengthlib.tests\\passwordevaluatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C7FF87-9CEE-4EE0-B1A9-6BD8C1FF59AC}|PasswordStrengthLib.Tests\\PasswordStrengthLib.Tests.csproj|solutionrelative:passwordstrengthlib.tests\\passwordevaluatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF1D0A-3ABB-40D9-9BB6-305E176210FB}|PasswordStrengthLib\\PasswordStrengthLib.csproj|c:\\users\\walte\\source\\repos\\passwordstrengthsolution\\passwordstrengthlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF1D0A-3ABB-40D9-9BB6-305E176210FB}|PasswordStrengthLib\\PasswordStrengthLib.csproj|solutionrelative:passwordstrengthlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C7FF87-9CEE-4EE0-B1A9-6BD8C1FF59AC}|PasswordStrengthLib.Tests\\PasswordStrengthLib.Tests.csproj|c:\\users\\walte\\source\\repos\\passwordstrengthsolution\\passwordstrengthlib.tests\\passwordstrengthlib.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7C7FF87-9CEE-4EE0-B1A9-6BD8C1FF59AC}|PasswordStrengthLib.Tests\\PasswordStrengthLib.Tests.csproj|solutionrelative:passwordstrengthlib.tests\\passwordstrengthlib.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF1D0A-3ABB-40D9-9BB6-305E176210FB}|PasswordStrengthLib\\PasswordStrengthLib.csproj|c:\\users\\walte\\source\\repos\\passwordstrengthsolution\\passwordstrengthlib\\passwordstrengthlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECEF1D0A-3ABB-40D9-9BB6-305E176210FB}|PasswordStrengthLib\\PasswordStrengthLib.csproj|solutionrelative:passwordstrengthlib\\passwordstrengthlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBDB8F2-216D-4AA9-B09D-77BD9D9B3997}|PasswordStrengthDemo\\PasswordStrengthDemo.csproj|c:\\users\\walte\\source\\repos\\passwordstrengthsolution\\passwordstrengthdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBDB8F2-216D-4AA9-B09D-77BD9D9B3997}|PasswordStrengthDemo\\PasswordStrengthDemo.csproj|solutionrelative:passwordstrengthdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\PasswordStrengthSolution\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\PasswordStrengthSolution\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-14T23:00:30.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordEvaluatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\PasswordStrengthSolution\\PasswordStrengthLib.Tests\\PasswordEvaluatorTests.cs",
+              "RelativeDocumentMoniker": "PasswordStrengthLib.Tests\\PasswordEvaluatorTests.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\PasswordStrengthSolution\\PasswordStrengthLib.Tests\\PasswordEvaluatorTests.cs",
+              "RelativeToolTip": "PasswordStrengthLib.Tests\\PasswordEvaluatorTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:06:07.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\PasswordStrengthSolution\\PasswordStrengthLib\\Class1.cs",
+              "RelativeDocumentMoniker": "PasswordStrengthLib\\Class1.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\PasswordStrengthSolution\\PasswordStrengthLib\\Class1.cs",
+              "RelativeToolTip": "PasswordStrengthLib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T20:44:09.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordStrengthLib.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\PasswordStrengthSolution\\PasswordStrengthLib.Tests\\PasswordStrengthLib.Tests.csproj",
+              "RelativeDocumentMoniker": "PasswordStrengthLib.Tests\\PasswordStrengthLib.Tests.csproj",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\PasswordStrengthSolution\\PasswordStrengthLib.Tests\\PasswordStrengthLib.Tests.csproj",
+              "RelativeToolTip": "PasswordStrengthLib.Tests\\PasswordStrengthLib.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-14T22:08:34.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordStrengthLib.csproj",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\PasswordStrengthSolution\\PasswordStrengthLib\\PasswordStrengthLib.csproj",
+              "RelativeDocumentMoniker": "PasswordStrengthLib\\PasswordStrengthLib.csproj",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\PasswordStrengthSolution\\PasswordStrengthLib\\PasswordStrengthLib.csproj",
+              "RelativeToolTip": "PasswordStrengthLib\\PasswordStrengthLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-14T22:09:17.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\PasswordStrengthSolution\\PasswordStrengthDemo\\Program.cs",
+              "RelativeDocumentMoniker": "PasswordStrengthDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\PasswordStrengthSolution\\PasswordStrengthDemo\\Program.cs",
+              "RelativeToolTip": "PasswordStrengthDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:13:52.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
