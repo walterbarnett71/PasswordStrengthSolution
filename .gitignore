@@ -1,3 +1,17 @@
-# Ignore build output folders
+# Visual Studio temporary files, build results, and user-specific files
+.vs/
 **/bin/
 **/obj/
+TestResults/
+*.suo
+*.user
+*.userosscache
+*.vsidx
+*.v2
+*.db-shm
+*.db-wal
+*.cache
+*.backup.json
+*.json
+*.testlog
+*.bin
